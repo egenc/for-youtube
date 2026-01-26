@@ -1,0 +1,100 @@
+2026-01-22 13:50:07,696 - INFO - 🚀 Starting Agent for Video ID: GxDTx1bx-x0
+2026-01-22 13:50:07,696 - INFO - Attempting Plan A: Fetching transcript...
+2026-01-22 13:50:08,494 - INFO - 🧠 Formatting transcript data...
+2026-01-22 13:50:08,495 - INFO - 📤 Sending 10035 characters to Gemini for transcript analysis...
+2026-01-22 13:50:21,641 - INFO - ✅ Gemini response received for transcript analysis.
+2026-01-22 13:50:21,642 - INFO - ✅ Plan A successful. Generated summary from transcript.
+2026-01-22 13:50:21,643 - INFO - Generated VideoAnalysis JSON saved to: /home/valka/repo/youtube/summarization/agent_output.json
+2026-01-22 14:08:59,705 - INFO - 🚀 Starting Agent for Video ID: GxDTx1bx-x0
+2026-01-22 14:08:59,706 - INFO - Attempting Plan A: Fetching transcript...
+2026-01-22 14:09:00,647 - INFO - 🧠 Formatting transcript data...
+2026-01-22 14:09:00,648 - INFO - 📤 Sending 10035 characters to Gemini for transcript analysis...
+2026-01-22 14:09:09,406 - INFO - ✅ Gemini response received for transcript analysis.
+2026-01-22 14:09:09,406 - INFO - ✅ Plan A successful. Generated summary from transcript.
+2026-01-22 14:09:09,409 - INFO - Generated VideoAnalysis JSON saved to: /home/valka/repo/youtube/summarization/agent_output.json
+2026-01-22 14:10:53,468 - INFO - 🚀 Starting Agent for Video ID: GxDTx1bx-x0
+2026-01-22 14:10:53,468 - INFO - Attempting Plan A: Fetching transcript...
+2026-01-22 14:10:54,864 - INFO - 🧠 Formatting transcript data...
+2026-01-22 14:10:54,864 - INFO - 📤 Sending 10035 characters to Gemini for transcript analysis...
+2026-01-22 14:11:05,406 - INFO - ✅ Gemini response received for transcript analysis.
+2026-01-22 14:11:05,407 - INFO - ✅ Plan A successful. Generated summary from transcript.
+2026-01-22 14:11:05,408 - INFO - Generated VideoAnalysis JSON saved to: /home/valka/repo/youtube/summarization/agent_output.json
+2026-01-22 21:37:17,630 - INFO - 🚀 Starting Agent for Video ID: pJ9ffd8C1JU
+2026-01-22 21:37:17,630 - INFO - Attempting Plan A: Fetching transcript...
+2026-01-22 21:37:18,470 - WARNING - ⚠️ Plan A failed. Error: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=pJ9ffd8C1JU! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2026-01-22 21:37:18,470 - INFO - ⬇️  Plan B: Downloading audio for https://www.youtube.com/watch?v=pJ9ffd8C1JU&t=1s...
+2026-01-22 21:37:23,923 - INFO - ✅ Audio downloaded successfully.
+2026-01-22 21:37:23,923 - INFO - 🧠 Uploading audio to Gemini (may take a moment)...
+2026-01-22 21:37:28,173 - INFO - 
+✅ Audio processed. Generating summary from audio...
+2026-01-22 21:37:44,933 - INFO - ✅ Gemini response received for audio analysis.
+2026-01-22 21:37:44,938 - INFO - ✅ Plan B successful. Generated summary from audio.
+2026-01-22 21:37:44,939 - INFO - 🧹 Cleanup: Temporary audio file deleted.
+2026-01-22 21:37:44,942 - INFO - Generated VideoAnalysis JSON saved to: /home/valka/repo/youtube/summarization/agent_output.json
+2026-01-22 21:38:21,212 - INFO - 🚀 Starting Agent for Video ID: pJ9ffd8C1JU
+2026-01-22 21:38:21,212 - INFO - Attempting Plan A: Fetching transcript...
+2026-01-22 21:39:46,830 - INFO - 🚀 Starting Agent for Video ID: pJ9ffd8C1JU
+2026-01-22 21:39:46,830 - INFO - Attempting Plan A: Fetching transcript...
+2026-01-22 21:39:47,491 - WARNING - ⚠️ Plan A failed. Error: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=pJ9ffd8C1JU! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2026-01-22 21:39:47,491 - INFO - ⬇️  Plan B: Downloading audio for https://www.youtube.com/watch?v=pJ9ffd8C1JU&t=1s...
+2026-01-22 21:39:52,539 - INFO - ✅ Audio downloaded successfully.
+2026-01-22 21:39:52,539 - INFO - 🧠 Uploading audio to Gemini (may take a moment)...
+2026-01-22 21:39:56,809 - INFO - 
+✅ Audio processed. Generating summary from audio...
+2026-01-22 21:40:21,145 - INFO - ✅ Gemini response received for audio analysis.
+2026-01-22 21:40:21,145 - INFO - ✅ Plan B successful. Generated summary from audio.
+2026-01-22 21:40:21,147 - INFO - 🧹 Cleanup: Temporary audio file deleted.
+2026-01-22 21:40:21,148 - INFO - Generated VideoAnalysis JSON saved to: /home/valka/repo/youtube/summarization/agent_output.json
+2026-01-22 21:47:54,552 - INFO - 🚀 Starting Agent for Video ID: dYhKqWPXUGs
+2026-01-22 21:47:54,552 - INFO - Attempting Plan A: Fetching transcript...
+2026-01-22 21:47:55,505 - WARNING - ⚠️ Plan A failed. Error: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=dYhKqWPXUGs! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2026-01-22 21:47:55,506 - INFO - ⬇️  Plan B: Downloading audio for https://www.youtube.com/watch?v=dYhKqWPXUGs...
+2026-01-22 21:48:13,980 - INFO - ✅ Audio downloaded successfully.
+2026-01-22 21:48:13,981 - INFO - 🧠 Uploading audio to Gemini (may take a moment)...
+2026-01-22 21:48:28,886 - INFO - 
+✅ Audio processed. Generating summary from audio...
+2026-01-22 21:49:40,060 - INFO - ✅ Gemini response received for audio analysis.
+2026-01-22 21:49:40,066 - INFO - ✅ Plan B successful. Generated summary from audio.
+2026-01-22 21:49:40,067 - INFO - 🧹 Cleanup: Temporary audio file deleted.
+2026-01-22 21:49:40,070 - INFO - Generated VideoAnalysis JSON saved to: /home/valka/repo/youtube/summarization/agent_output.json
+2026-01-22 21:51:01,181 - INFO - 🚀 Starting Agent for Video ID: PpYb0wnpex0
+2026-01-22 21:51:01,181 - INFO - Attempting Plan A: Fetching transcript...
+2026-01-22 21:51:01,996 - WARNING - ⚠️ Plan A failed. Error: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=PpYb0wnpex0! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2026-01-22 21:51:01,996 - INFO - ⬇️  Plan B: Downloading audio for https://www.youtube.com/watch?v=PpYb0wnpex0...
+2026-01-22 21:55:39,832 - INFO - 🚀 Starting Agent for Video ID: dYhKqWPXUGs
+2026-01-22 21:55:39,833 - INFO - Attempting Plan A: Fetching transcript...
+2026-01-22 21:55:40,627 - WARNING - ⚠️ Plan A failed. Error: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=dYhKqWPXUGs! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2026-01-22 21:55:40,627 - INFO - ⬇️  Plan B: Downloading audio for https://www.youtube.com/watch?v=dYhKqWPXUGs...
+2026-01-22 21:55:44,633 - INFO - ✅ Audio downloaded successfully.
+2026-01-22 21:55:44,633 - INFO - 🧠 Uploading audio to Gemini (may take a moment)...
+2026-01-22 21:55:48,552 - INFO - 
+✅ Audio processed. Generating summary from audio...
+2026-01-22 21:56:02,792 - INFO - ✅ Gemini response received for audio analysis.
+2026-01-22 21:56:02,792 - INFO - ✅ Plan B successful. Generated summary from audio.
+2026-01-22 21:56:02,793 - INFO - 🧹 Cleanup: Temporary audio file deleted.
+2026-01-22 21:56:02,795 - INFO - Generated VideoAnalysis JSON saved to: /home/valka/repo/youtube/summarization/agent_output.json
